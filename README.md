@@ -96,8 +96,6 @@ make
 
 ---
 
-## Preview
-
 ## Screenshots
 
 - Login Page
@@ -127,6 +125,10 @@ make
 - Channels
 <p align="center">
 <img src="./assets/channelInfo.png" alt="How a server works" width="1000"/>
+</p>
+
+<p align="center">
+<img src="./assets/lockChannel.png" alt="How a server works" width="1000"/>
 </p>
 
 - Game Invite
