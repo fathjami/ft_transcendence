@@ -100,9 +100,18 @@ make
 
 ## Screenshots
 
+- Login Page
+<p align="center">
+<img src="./assets/login.png" alt="How a server works" width="1000"/>
+</p>
+
 - Dashboard
 <p align="center">
 <img src="./assets/dashboard.png" alt="How a server works" width="1000"/>
+</p>
+
+<p align="center">
+<img src="./assets/channels.png" alt="How a server works" width="1000"/>
 </p>
 
 - Profile
@@ -115,6 +124,11 @@ make
 <img src="./assets/messages.png" alt="How a server works" width="1000"/>
 </p>
 
+- Channels
+<p align="center">
+<img src="./assets/channelInfo.png" alt="How a server works" width="1000"/>
+</p>
+
 - Game Invite
 <p align="center">
 <img src="./assets/game-invite.png" alt="How a server works" width="1000"/>
@@ -122,10 +136,19 @@ make
 
 - Game
 <p align="center">
+<img src="./assets/costumize.png" alt="How a server works" width="1000"/>
+</p>
+
+<p align="center">
 <img src="./assets/match.png" alt="How a server works" width="1000"/>
 </p>
 
 - Game win
 <p align="center">
 <img src="./assets/match-win.png" alt="How a server works" width="1000"/>
+</p>
+
+- Settings
+<p align="center">
+<img src="./assets/settings.png" alt="How a server works" width="1000"/>
 </p>
