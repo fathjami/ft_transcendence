@@ -21,7 +21,7 @@
 </p>
 
 ---
-<p> Demo: https://drive.google.com/file/d/1AbcpofX8ZU-jlrj5cwGc1SHHt6Tpochw/view?usp=sharing </p>
+<h2> [Click here to see our project Demo] (https://drive.google.com/file/d/1AbcpofX8ZU-jlrj5cwGc1SHHt6Tpochw/view?usp=sharing) </h2>
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
